@@ -13,5 +13,5 @@ The list of models trained are
 9) svm
 10) naive bayes
 11) logistic regression
-12) random forest
+12) random forest\
 Various tuning methds were used such as bagging, gradient boosting, gridsearchcv and randomsearchcv
